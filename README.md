@@ -3,15 +3,15 @@
 
 <hr>
 
-<h3 align="center">- 🔭 I’m currently working on **MechaBot**</h3>
+<h3 align="center">- 🔭 I’m currently working on MechaBot</h3>
 
-<h3 align="center">- 🌱 I’m currently learning **HTML & CSS**</h3>
+<h3 align="center">- 🌱 I’m currently learning HTML & CSS</h3>
 
-<h3 align="center">- 👯 I’m looking to collaborate on **Discord.js Bots**</h3>
+<h3 align="center">- 👯 I’m looking to collaborate on Discord.js Bots</h3>
 
-<h3 align="center">- 💬 Ask me about **everything, im always ready to help!**</h3>
+<h3 align="center">- 💬 Ask me about everything, im always ready to help!</h3>
 
-<h3 align="center">- 📫 Reach me on discord : **Lil_Bear#1450**</h3>
+<h3 align="center">- 📫 Reach me on discord : Lil_Bear#1450</h3>
 
 <hr>
 
